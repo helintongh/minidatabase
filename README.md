@@ -1,4 +1,4 @@
-#minidatabase
+# minidatabase
 代码运行
 Linux（Ubuntu，CentOS测试可行）
 编译源码：clang minidatabase.c -o database
